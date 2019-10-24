@@ -1,5 +1,6 @@
 ---
 title: Startup Framework
+permalink: /1
 subtitle: Website Design
 layout: default
 modal-id: 5
@@ -13,3 +14,8 @@ category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
+
+
+asdasdasd
+asdasdasd
+asdasdasd
