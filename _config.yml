@@ -1,5 +1,5 @@
 url: https://rawajitqan.github.io
-baseurl: https://rawajitqan.github.io
+
 
 # Site settings
 title: RAWAJ ALITQAN
@@ -21,8 +21,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 14231 Khurais Rd
+  - line: An Nasim Al Gharbi, SA 14231
 
 # Build settings
 markdown: kramdown

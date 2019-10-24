@@ -23,20 +23,20 @@
                         <a class="page-scroll" href="{{ site.url }}">Home</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="{{ /#services | prepend: site.baseurl }}#services">Services</a>
+                        <a class="page-scroll" href="{{ site.url }}/#services">Services</a>
                     </li>
                     
                     <li>
-                        <a class="page-scroll" href="{{ /#about | prepend: site.baseurl }}">About</a>
+                        <a class="page-scroll" href="{{ site.url }}/#about">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="{{ /#clients | prepend: site.baseurl }}">Clients</a>
+                        <a class="page-scroll" href="{{ site.url }}/#clients">Clients</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="{{ '/careers' | prepend: site.baseurl }}">Careers</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#">Contact</a>
+                        <a class="page-scroll" href="{{ site.url }}/#contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -49,8 +49,7 @@
     <header>
         <div class="container">
             <div class="intro-text">
-              {{ content }}
-        
+               {{ content }}
             </div>
         </div>
     </header>
