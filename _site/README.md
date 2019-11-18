@@ -1,7 +1,5 @@
-Agency Jekyll theme
-====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+A Fork of Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
 # How to use
 
