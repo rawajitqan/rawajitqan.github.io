@@ -1,4 +1,17 @@
 ---
+<<<<<<< HEAD
+title: Private Villa 2
+subtitle: Interior and exterior decorations, Electromechanical and Finishing Works
+layout: default
+modal-id: 5
+img: private-villa.jpeg
+thumbnail: private-villa-thumb.jpeg
+client: Waha Area - Riyadh
+category: [Interior decorations, exterior decorations, Electromechanical Works, Finishing Works]
+description: Another Work for a private villa in Waha Area, Riyadh made by our Team.
+
+---
+=======
 title: Startup Framework
 permalink: /1
 subtitle: Website Design
@@ -19,3 +32,4 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 asdasdasd
 asdasdasd
 asdasdasd
+>>>>>>> f163d75cfd9c041117e18d5d192ed92e75695909

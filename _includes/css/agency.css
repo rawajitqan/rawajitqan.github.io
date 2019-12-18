@@ -374,8 +374,13 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
+<<<<<<< HEAD
+    background: rgba(0, 69, 130, 0.9); /* Fallback when no plugin support */
+
+=======
     background: rgba(254,209,54,.9); /* Fallback when no plugin support */
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
+>>>>>>> f163d75cfd9c041117e18d5d192ed92e75695909
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {

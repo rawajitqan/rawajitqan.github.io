@@ -1,4 +1,19 @@
 ---
+<<<<<<< HEAD
+title: Private Villa
+subtitle: Finishing Works
+layout: default
+modal-id: 1
+img: malaz1.jpeg
+thumbnail: malaz1-thumb.jpeg
+alt: Private Villa - Rawaj Alitaqan Consturcion Company in KSA
+client: Malaz Area - Riyadh
+category: Finishing Works
+description: Finishing Works for private villa made by our team in Malaz area - Riyadh.
+
+---
+
+=======
 title: Dreams
 subtitle: Website Design
 layout: default
@@ -13,3 +28,4 @@ category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
+>>>>>>> f163d75cfd9c041117e18d5d192ed92e75695909
