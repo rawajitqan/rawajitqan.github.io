@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 Agency Jekyll theme
 ====================
 
 Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
-=======
-
-A Fork of Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
->>>>>>> f163d75cfd9c041117e18d5d192ed92e75695909
 
 # How to use
 
