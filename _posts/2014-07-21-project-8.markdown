@@ -1,0 +1,19 @@
+---
+title: Private Villa
+subtitle: Construction works
+layout: default
+modal-id: 8
+img: khaseeb-villa-1.jpg
+img-1: khaseeb-villa-2.jpg
+img-2: khaseeb-villa-3.jpg
+img-3: khaseeb-villa-4.jpg
+img-4: khaseeb-villa-5.jpg
+img-5: khaseeb-villa-6.jpg
+img-6: khaseeb-villa-7.jpg
+img-7: khaseeb-villa-8.jpg
+thumbnail: khaseeb-villa-1.jpg
+alt: Construction works for a Private Villa in Huttin Area - Rawaj Alitaqan Consturcion Company in KSA
+client: Huttin Area, Riyadh
+category: Construction works
+description: Construction works for a Private Villa in Huttin Area made by our team.
+---

@@ -1,0 +1,15 @@
+---
+title: Private Palace
+subtitle: Constructional Works
+layout: default
+modal-id: 12
+img: Hamad-palace-1.jpg
+img-1: Hamad-palace-2.jpg
+img-2: Hamad-palace-3.jpg
+img-3: Hamad-palace-4.jpg
+thumbnail: Hamad-palace-1.jpg
+alt: Constructional Works for a Private Palace in Huttin Area, Riyadh - Rawaj Alitaqan Consturcion Company in KSA
+client: Huttin Area, Riyadh
+category: Constructional Works
+description: Constructional Works for a Private Palace in Huttin Area - Riyadh made by our team.
+---
