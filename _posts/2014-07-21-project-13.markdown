@@ -6,7 +6,7 @@ modal-id: 13
 img: mtawe-1.jpg
 img-1: mtawe-2.jpg
 img-2: mtawe-3.jpg
-thumbnail: mtawe-1.jpg
+thumbnail: mtawe-thumb.jpg
 alt: Finishing Works for a Private Villa in Raed Area, Riyadh - Rawaj Alitaqan Consturcion Company in KSA
 client: Raed Area, Riyadh
 category: Finishing Works

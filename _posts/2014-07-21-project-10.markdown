@@ -5,7 +5,7 @@ layout: default
 modal-id: 10
 img: Abu-elhos-1.jpg
 img-1: Abu-elhos-2.jpg
-thumbnail: Abu-elhos-1.jpg
+thumbnail: Abu-elhos-thumb.jpg
 alt: Internal Repairs for a Private Villa in Rawdah Area - Rawaj Alitaqan Consturcion Company in KSA
 client: Yarmouk Area, Riyadh
 category: External Facade, Finishing Works

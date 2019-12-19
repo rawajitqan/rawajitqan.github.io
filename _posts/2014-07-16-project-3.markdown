@@ -6,7 +6,6 @@ modal-id: 3
 img: Almajed.jpg
 img-1: Almajed-1.jpg
 img-2: Almajed-2.jpg
-img-3: Almajed-3.jpg
 thumbnail: Almajed-thumb.jpg
 alt: Almajed Shop - Rawaj Alitaqan Consturcion Company in KSA
 client: Alathim Mall - Riyadh
