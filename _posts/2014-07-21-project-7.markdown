@@ -6,7 +6,7 @@ modal-id: 7
 img: sadeer-factory-1.JPG
 img-1: sadeer-factory-2.JPG
 img-2: sadeer-factory-3.JPG
-thumbnail: sadeer-factory-3.JPG
+thumbnail: sadeer-factory-thumb.JPG
 alt: Factory and Depository External facade works - Rawaj Alitaqan Consturcion Company in KSA
 client: Sadeer Garden
 category: External facade works

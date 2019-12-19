@@ -8,7 +8,7 @@ img-1: yarmouk-center-2.JPG
 img-2: yarmouk-center-3.JPG
 img-3: yarmouk-center-4.JPG
 img-4: yarmouk-center-5.JPG
-thumbnail: yarmouk-center-1.JPG
+thumbnail: yarmouk-center-thumb.JPG
 alt: Internal and External Finishing Works for a Commercial Building in Yarmouk Area - Rawaj Alitaqan Consturcion Company in KSA
 client: Yarmouk Area, Riyadh
 category: Internal and External Finishing Works
