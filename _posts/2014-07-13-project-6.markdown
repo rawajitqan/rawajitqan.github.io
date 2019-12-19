@@ -4,6 +4,10 @@ subtitle: Interior decorations
 layout: default
 modal-id: 6
 img: Private-office.jpg
+img-1: Private-office-1.jpg
+img-2: Private-office-2.jpg
+img-3: Private-office-3.jpg
+img-4: Private-office-4.jpg
 thumbnail: Private-office-thumb.jpg
 client: Almanar Area - Riyadh
 category: Interior decorations
