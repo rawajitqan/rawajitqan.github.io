@@ -1,5 +1,5 @@
 ---
-title: Institution headquarters
+title: Institution Head Office
 subtitle: Interior decorations
 layout: default
 modal-id: 6

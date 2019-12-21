@@ -1,5 +1,5 @@
 ---
-title: Factory and Depository
+title: Factory and Warehouse
 subtitle: External facade works
 layout: default
 modal-id: 7
