@@ -6,6 +6,7 @@
  * 2. Prevent adjustments of font size after orientation changes in
  *    IE on Windows Phone and in iOS.
  */
+
 html {
   line-height: 1.15;
   /* 1 */
@@ -23,6 +24,15 @@ html {
 body {
   margin: 0;
   direction: rtl;
+}
+a {
+    
+    text-decoration: none;
+    color: #505d8a;
+    display: inline-block;
+}
+a:hover {
+    color: #15284d;
 }
 
 /**
@@ -770,11 +780,12 @@ template {
 }
 
 html {
-  line-height: 1.5;
+  line-height: 2;
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Cairo', sans-serif;
+  font-size: 18px;
   color: #515151;
   background-color: #fbfbfb;
   margin: 0;
@@ -943,18 +954,18 @@ table tfoot td {
 }
 
 .about .cover-author-image {
-  width: 100px;
-  height: 100px;
+  min-width:120px;
+    height:auto;
   margin: 0 auto 10px;
   -webkit-border-radius: 100%;
           border-radius: 100%;
   overflow: hidden;
-  background-color: #333030;
+
 }
 
 .about img {
-  width: 100%;
-  height: 100%;
+    min-width:120px;
+    height:auto;
   -webkit-border-radius: 50%;
           border-radius: 50%;
   -webkit-transition: -webkit-transform 0.35s;
@@ -1163,7 +1174,7 @@ footer .copyright {
 }
 
 .post .post-content .post-title a {
-  font-family: 'PT Serif', serif;
+  font-family: 'Cairo', serif;
   text-decoration: none;
   color: #263959;
 }
@@ -1479,4 +1490,21 @@ a.newer-posts:hover {
   .post .post-content .post-title a {
     font-size: 21px;
   }
+}
+#markdown-toc::before {
+    content: "محتويات الصفحة";
+    font-weight: bold;
+}
+
+
+// Using numbers instead of bullets for listing
+#markdown-toc ul {
+    list-style: decimal;
+}
+
+#markdown-toc {
+    border: 1px solid #aaa;
+    padding: 1.5em;
+    list-style: decimal;
+    display: inline-block;
 }

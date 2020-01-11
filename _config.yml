@@ -24,27 +24,23 @@ address:
   - line: 14231 Khurais Rd
   - line: An Nasim Al Gharbi, SA 14231
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+author: رواج الإتقان # add your name
+author-img: logo2.svg # add your photo
+about-author: شركة رواج الإتقان للمقاولات والمشاريع العمرانية الداخلية والخارجية في جميع أنحاء المملكة العربية السعودية. # add description
+social-twitter: rawajalitqan
+social-facebook: RAWAJ-Aitqan-Est-264712217481264
+social-instagram: rawajalitqan
+social-email: pmo@rawajitqan.com
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: rawajitqan # add your discus identifier
 
 # Tracker
-analytics: # Google Analyti
+analytics: UA-80564042-2
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-sitemap
-  - jekyll-paginate
-
-paginate: 8
-paginate_path: "/page/:num"
+permalink: /:title/
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
-permalink: pretty
+
