@@ -1,6 +1,6 @@
 ---
-title: Institution Head Office
-subtitle: Interior decorations
+title: مقر شركة
+subtitle: ديكورات داخلية
 layout: default
 modal-id: 6
 img: Private-office.jpg
@@ -9,7 +9,8 @@ img-2: Private-office-2.jpg
 img-3: Private-office-3.jpg
 img-4: Private-office-4.jpg
 thumbnail: Private-office-thumb.jpg
-client: Almanar Area - Riyadh
-category: Interior decorations
+alt: أعمال ديكورات داخلية لمقر شركة في حي المنار، الرياض. مؤسسة رواج الإتقان للمقاولات في المملكة العربية السعودية
+client: حي المنار، الرياض
+category: ديكورات داخلية
 description: Interior decorations for Institution headquarters made by our team in Almanar area - Riyadh.
 ---

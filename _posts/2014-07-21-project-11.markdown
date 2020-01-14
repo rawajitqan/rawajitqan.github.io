@@ -1,6 +1,6 @@
 ---
-title: Commercial Building
-subtitle: Internal & External Finishing Works
+title: اليرموك سنتر
+subtitle: أعمال تشطيبات داخلية وخارجية
 layout: default
 modal-id: 11
 img: yarmouk-center-1.JPG
@@ -9,8 +9,8 @@ img-2: yarmouk-center-3.JPG
 img-3: yarmouk-center-4.JPG
 img-4: yarmouk-center-5.JPG
 thumbnail: yarmouk-center-thumb.JPG
-alt: Internal and External Finishing Works for a Commercial Building in Yarmouk Area - Rawaj Alitaqan Consturcion Company in KSA
-client: Yarmouk Area, Riyadh
-category: Internal and External Finishing Works
+alt: أعمال تشطيبات داخلية وخارجية في حي اليرموك، الرياض. مؤسسة رواج الإتقان للمقاولات في المملكة العربية السعودية
+client: حي اليرموك، الرياض
+category: أعمال تشطيبات داخلية وخارجية
 description: Internal and External Finishing Works for a Commercial Building in Yarmouk Area made by our team.
 ---

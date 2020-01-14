@@ -1,0 +1,16 @@
+---
+title: Institution Head Office
+lang: en
+subtitle: Interior decorations
+layout: default
+modal-id: 1
+img: hazemy.jpg
+img-1: hazemy1.jpg
+img-2: hazemy2.jpg
+img-3: hazemy3.jpg
+thumbnail: hazemy-thumb.jpg
+alt: Institution Head Office - Rawaj Alitaqan Consturcion Company in KSA
+client: Yarmouk Area - Riyadh
+category: Interior decorations
+description: Interior decorations for Institution Head Office made by our team in Yarmouk area - Riyadh.
+---

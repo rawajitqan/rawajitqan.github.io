@@ -1,6 +1,6 @@
 ---
-title: Jonquil Clothes Shop
-subtitle: Decorations
+title: معارض ملابس جانكويل
+subtitle: أعمال ديكورات
 layout: default
 modal-id: 4
 img: Janquil.jpg
@@ -10,8 +10,8 @@ img-3: Janquil-3.jpg
 img-4: Janquil-4.jpg
 img-5: Janquil-5.jpg
 thumbnail: Janquil-thumb.jpeg
-alt: image-alt
-client: Alzahran Mall
-category: Decorations
+alt: أعمال ديكورات لمعارض ملابس جانكويل. مؤسسة رواج الإتقان للمقاولات في المملكة العربية السعودية
+client: الظهران (الظهران مول) –  الدوادمي (المكان مول)
+category: أعمال ديكورات
 description: Decoration Works made by Rawaj Alitqan Team for Jonquil Clothes Shop in Alzahran Mall.
 ---

@@ -1,14 +1,14 @@
 ---
-title: Private Villa
-subtitle: Finishing Works
+title: فيلا سكنية خاصة
+subtitle: أعمال تشطيب
 layout: default
 modal-id: 13
 img: mtawe-1.jpg
 img-1: mtawe-2.jpg
 img-2: mtawe-3.jpg
 thumbnail: mtawe-thumb.jpg
-alt: Finishing Works for a Private Villa in Raed Area, Riyadh - Rawaj Alitaqan Consturcion Company in KSA
-client: Raed Area, Riyadh
-category: Finishing Works
+alt: أعمال تشطيب لفيلا سكنية خاصة في حي الرائد، الرياض - مؤسسة رواج الإتقان للمقاولات في المملكة العربية السعودية
+client: حي الرائد، الرياض
+category: أعمال تشطيب
 description: Finishing Works for a Private Villa in Raed Area - Riyadh made by our team.
 ---

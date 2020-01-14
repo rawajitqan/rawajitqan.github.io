@@ -1,0 +1,17 @@
+---
+title: Private Villa 2
+lang: en
+subtitle: Interior and exterior decorations, Electromechanical and Finishing Works
+layout: default
+modal-id: 5
+img: private-villa.jpeg
+img-1: private-villa-1.jpeg
+img-2: private-villa-2.jpeg
+img-3: private-villa-3.jpeg
+img-4: private-villa-4.jpeg
+thumbnail: private-villa-thumb.jpeg
+client: Waha Area - Riyadh
+category: [Interior decorations, exterior decorations, Electromechanical Works, Finishing Works]
+description: Another Work for a private villa in Waha Area, Riyadh made by our Team.
+
+---

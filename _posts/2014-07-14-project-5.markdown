@@ -1,6 +1,6 @@
 ---
-title: Private Villa 2
-subtitle: Interior and exterior decorations, Electromechanical and Finishing Works
+title: فيلا سكنية خاصة
+subtitle: تشطيبات عامة، ديكورات داخلية وخارجية، أعمال الكتروميكانيك
 layout: default
 modal-id: 5
 img: private-villa.jpeg
@@ -9,8 +9,9 @@ img-2: private-villa-2.jpeg
 img-3: private-villa-3.jpeg
 img-4: private-villa-4.jpeg
 thumbnail: private-villa-thumb.jpeg
-client: Waha Area - Riyadh
-category: [Interior decorations, exterior decorations, Electromechanical Works, Finishing Works]
+client: حي الواحة، الرياض
+alt: تشطيبات عامة، ديكورات داخلية وخارجية، أعمال الكتروميكانيك لفيلا سكنية خاصة في حي الواحة، الرياض. مؤسسة رواج الإتقان للمقاولات في المملكة العربية السعودية
+category: [أعمال تشطيبات عامة, ديكورات داخلية وخارجية, أعمال الكتروميكانيك]
 description: Another Work for a private villa in Waha Area, Riyadh made by our Team.
 
 ---

@@ -1,6 +1,6 @@
 ---
-title: Private Villa
-subtitle: Internal Repairs
+title: فيلا سكنية خاصة
+subtitle: أعمال ترميمات داخلية
 layout: default
 modal-id: 9
 img: mamdouh-1.jpg
@@ -11,8 +11,8 @@ img-4: mamdouh-5.jpg
 img-5: mamdouh-6.jpg
 img-6: mamdouh-7.jpg
 thumbnail: mamdouh-thumb.jpg
-alt: Internal Repairs for a Private Villa in Rawdah Area - Rawaj Alitaqan Consturcion Company in KSA
-client: Rawdah Area, Riyadh
-category: Internal Repairs
+alt: أعمال ترميمات داخلية لفيلا سكنية خاصة في خي الروضة، الرياض. مؤسسة رواج الإتقان للمقاولات في المملكة العربية السعودية
+client: حي الروضة، الرياض
+category: أعمال ترميمات داخلية
 description: Internal Repairs for a Private Villa in Rawdah Area made by our team.
 ---

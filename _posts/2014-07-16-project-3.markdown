@@ -1,15 +1,15 @@
 ---
-title: Almajed Shop
-subtitle: Decorations
+title: معرض الماجد للعود
+subtitle: أعمال ديكورات
 layout: default
 modal-id: 3
 img: Almajed.jpg
 img-1: Almajed-1.jpg
 img-2: Almajed-2.jpg
 thumbnail: Almajed-thumb.jpg
-alt: Almajed Shop - Rawaj Alitaqan Consturcion Company in KSA
-client: Alathim Mall - Riyadh
-category: Decorations
+alt: معرض الماجد للعود - مؤسسة رواج الإتقان للمقاولات في المملكة العربية السعودية
+client: النسيم الشرقي (العثيم مول) - الرياض
+category: أعمال ديكورات
 description:  Decorations for Almajed Shop made by our team in Alnaseem Alsharqy area - Riyadh.
 
 ---

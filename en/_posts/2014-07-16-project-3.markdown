@@ -1,0 +1,16 @@
+---
+title: Almajed Shop
+lang: en
+subtitle: Decorations
+layout: default
+modal-id: 3
+img: Almajed.jpg
+img-1: Almajed-1.jpg
+img-2: Almajed-2.jpg
+thumbnail: Almajed-thumb.jpg
+alt: Almajed Shop - Rawaj Alitaqan Consturcion Company in KSA
+client: Alathim Mall - Riyadh
+category: Decorations
+description:  Decorations for Almajed Shop made by our team in Alnaseem Alsharqy area - Riyadh.
+
+---

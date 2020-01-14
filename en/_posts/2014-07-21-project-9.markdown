@@ -1,0 +1,19 @@
+---
+title: Private Villa
+lang: en
+subtitle: Internal Repairs
+layout: default
+modal-id: 9
+img: mamdouh-1.jpg
+img-1: mamdouh-2.jpg
+img-2: mamdouh-3.jpg
+img-3: mamdouh-4.jpg
+img-4: mamdouh-5.jpg
+img-5: mamdouh-6.jpg
+img-6: mamdouh-7.jpg
+thumbnail: mamdouh-thumb.jpg
+alt: Internal Repairs for a Private Villa in Rawdah Area - Rawaj Alitaqan Consturcion Company in KSA
+client: Rawdah Area, Riyadh
+category: Internal Repairs
+description: Internal Repairs for a Private Villa in Rawdah Area made by our team.
+---

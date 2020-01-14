@@ -1,6 +1,6 @@
 ---
-title: Private Palace
-subtitle: Finishing Works
+title: قصر سكني خاص
+subtitle: أعمال تشطيب
 layout: default
 modal-id: 15
 img: private-palace-1.JPG
@@ -10,8 +10,8 @@ img-3: private-palace-4.JPG
 img-4: private-palace-5.JPG
 img-5: private-palace-6.JPG
 thumbnail: private-palace-thumb.JPG
-alt: Finishing Works for a Private Palace in Huttin Area, Riyadh - Rawaj Alitaqan Consturcion Company in KSA
-client: Huttin Area, Riyadh
-category: Finishing Works
+alt: أعمال تشطيب لحي سكني خاص في حي حطين، الرياض - مؤسسة رواج الإتقان للمقاولات في المملكة العربية السعودية
+client: حي حطين، الرياض 
+category: أعمال تشطيب
 description: Finishing Works for a Private Palace in Huttin Area - Riyadh made by our team.
 ---
