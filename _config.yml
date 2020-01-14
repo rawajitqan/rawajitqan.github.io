@@ -40,6 +40,7 @@ analytics: UA-80564042-2
 markdown: kramdown
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
 permalink: /:title/
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
