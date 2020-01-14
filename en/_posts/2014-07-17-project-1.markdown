@@ -1,6 +1,7 @@
 ---
 title: Institution Head Office
 lang: en
+sitemap: false
 subtitle: Interior decorations
 layout: default
 modal-id: 1

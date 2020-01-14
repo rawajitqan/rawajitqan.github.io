@@ -1,5 +1,6 @@
 ---
 title: اليرموك سنتر
+sitemap: false
 subtitle: أعمال تشطيبات داخلية وخارجية
 layout: default
 modal-id: 11

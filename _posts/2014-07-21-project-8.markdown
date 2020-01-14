@@ -2,6 +2,7 @@
 title: فيلا سكنية خاصة
 subtitle: أعمال إنشائية
 layout: default
+sitemap: false
 modal-id: 8
 img: khaseeb-villa-1.jpg
 img-1: khaseeb-villa-2.jpg

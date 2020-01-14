@@ -1,6 +1,7 @@
 ---
 title: Almajed Shop
 lang: en
+sitemap: false
 subtitle: Decorations
 layout: default
 modal-id: 3

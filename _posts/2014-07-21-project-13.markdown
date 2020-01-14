@@ -1,5 +1,6 @@
 ---
 title: فيلا سكنية خاصة
+sitemap: false
 subtitle: أعمال تشطيب
 layout: default
 modal-id: 13

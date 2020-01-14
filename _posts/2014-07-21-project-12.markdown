@@ -1,5 +1,6 @@
 ---
 title: قصر سكني خاص
+sitemap: false
 subtitle: أعمال إنشائية
 layout: default
 modal-id: 12

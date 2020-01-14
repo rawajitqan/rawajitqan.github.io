@@ -1,5 +1,6 @@
 ---
 title: مباني إدارية حكومية
+sitemap: false
 subtitle:  أعمال تشطيب
 layout: default
 modal-id: 14

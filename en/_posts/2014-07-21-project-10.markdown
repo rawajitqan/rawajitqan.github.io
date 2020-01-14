@@ -1,6 +1,7 @@
 ---
 title: candies shop
 lang: en
+sitemap: false
 subtitle: External Facade & Finishing Works
 layout: default
 modal-id: 10

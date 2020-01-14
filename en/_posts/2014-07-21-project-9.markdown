@@ -1,6 +1,7 @@
 ---
 title: Private Villa
 lang: en
+sitemap: false
 subtitle: Internal Repairs
 layout: default
 modal-id: 9

@@ -1,5 +1,6 @@
 ---
 title: معرض الماجد للعود
+sitemap: false
 subtitle: أعمال ديكورات
 layout: default
 modal-id: 3

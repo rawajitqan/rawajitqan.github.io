@@ -1,6 +1,7 @@
 ---
 title: Private Palace
 lang: en
+sitemap: false
 subtitle: Constructional Works
 layout: default
 modal-id: 12

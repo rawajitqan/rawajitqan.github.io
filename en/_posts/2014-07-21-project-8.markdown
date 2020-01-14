@@ -1,6 +1,7 @@
 ---
 title: Private Villa
 lang: en
+sitemap: false
 subtitle: Construction works
 layout: default
 modal-id: 8

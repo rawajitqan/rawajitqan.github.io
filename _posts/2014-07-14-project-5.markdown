@@ -11,6 +11,7 @@ img-4: private-villa-4.jpeg
 thumbnail: private-villa-thumb.jpeg
 client: حي الواحة، الرياض
 alt: تشطيبات عامة، ديكورات داخلية وخارجية، أعمال الكتروميكانيك لفيلا سكنية خاصة في حي الواحة، الرياض. مؤسسة رواج الإتقان للمقاولات في المملكة العربية السعودية
+sitemap: false
 category: [أعمال تشطيبات عامة, ديكورات داخلية وخارجية, أعمال الكتروميكانيك]
 description: Another Work for a private villa in Waha Area, Riyadh made by our Team.
 

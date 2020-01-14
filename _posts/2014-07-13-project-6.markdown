@@ -1,5 +1,6 @@
 ---
 title: مقر شركة
+sitemap: false
 subtitle: ديكورات داخلية
 layout: default
 modal-id: 6

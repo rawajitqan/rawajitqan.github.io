@@ -1,6 +1,7 @@
 ---
 title: Commercial Building
 lang: en
+sitemap: false
 subtitle: Internal & External Finishing Works
 layout: default
 modal-id: 11

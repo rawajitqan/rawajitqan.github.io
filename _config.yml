@@ -35,7 +35,7 @@ social-email: pmo@rawajitqan.com
 discus-identifier: rawajitqan # add your discus identifier
 
 # Tracker
-analytics: UA-80564042-2
+analytics:
 # Build settings
 markdown: kramdown
 plugins:

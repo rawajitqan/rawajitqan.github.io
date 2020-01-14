@@ -1,5 +1,6 @@
 ---
 title: مصنع و مستودع
+sitemap: false
 subtitle: واجهات خارجية
 layout: default
 modal-id: 7

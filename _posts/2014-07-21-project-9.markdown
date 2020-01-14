@@ -1,6 +1,7 @@
 ---
 title: فيلا سكنية خاصة
 subtitle: أعمال ترميمات داخلية
+sitemap: false
 layout: default
 modal-id: 9
 img: mamdouh-1.jpg
