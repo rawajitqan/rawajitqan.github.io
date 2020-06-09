@@ -2,7 +2,7 @@
 layout: post
 title: التصاميم وأنواعها - مدارسها وطرازاتها وأدواتها
 date: 2020-06-09
-img: estate-152518_640
+img: estate-152518_640.png
 fig-caption: Image by OpenClipart-Vectors from Pixabay
 ---
 

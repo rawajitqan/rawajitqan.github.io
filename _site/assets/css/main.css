@@ -962,7 +962,12 @@ table tfoot td {
   overflow: hidden;
 
 }
+figcaption {
+  padding-top: 10px;
+  color:  #8c8b8b;
+  display: block;
 
+}
 .about img {
     min-width:120px;
     height:auto;
