@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: projects_page
 title: "Contact us"
 ---
 
@@ -11,7 +11,7 @@ try{
 var f = document.createElement("iframe");   
 f.src = 'https://forms.zohopublic.com/virtualoffice18342/form/JobApplicationForm/formperma/3krPbtWZ2W7xC_N7X5nmvBvIzFc20T2pRH-5CfiT3Zg?zf_rszfm=1';
 f.style.border="none";                                           
-f.style.height="1634px";
+f.style.height="1900px";
 f.style.width="90%";
 f.style.transition="all 0.5s ease";// No I18N
 var d = document.getElementById("zf_div_3krPbtWZ2W7xC_N7X5nmvBvIzFc20T2pRH-5CfiT3Zg");
