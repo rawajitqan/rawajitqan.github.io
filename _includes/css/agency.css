@@ -3,12 +3,12 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-html{
-margin-right: 20px;}
+
 body {
     overflow-x: hidden;
     font-family: "Cairo", "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
+    
 }
 
 .text-muted {
@@ -321,9 +321,10 @@ header .intro-text .intro-heading {
     font-weight: 700;
     line-height: 50px;
 }
-@media(max-width:768px){
+@media(max-width:1100px){
 header .intro-text {
         MARGIN-TOP: 0PX;
+        margin-bottom:100px;
     }
 header .intro-text .intro-heading{
     font-size: 30px;
