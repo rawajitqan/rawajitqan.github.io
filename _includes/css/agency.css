@@ -286,7 +286,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -296,8 +296,12 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
-    padding-bottom: 50px;
+
+    margin-top: -400px;
+    z-index: 2;
+    position: sticky;
+
+
 }
 
 header .intro-text .intro-lead-in {
@@ -316,12 +320,20 @@ header .intro-text .intro-heading {
     font-weight: 700;
     line-height: 50px;
 }
-
-@media(min-width:768px) {
-    header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+@media(max-width:768px){
+header .intro-text {
+        MARGIN-TOP: 0PX;
     }
+header .intro-text .intro-heading{
+    font-size: 30px;
+    
+}
+header {
+    color: #1e1313;
+}
+}
+@media(min-width:768px) {
+  
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
@@ -364,6 +376,7 @@ section h3.section-subheading {
     section {
         padding: 150px 0;
     }
+    
 }
 
 .service-heading {
