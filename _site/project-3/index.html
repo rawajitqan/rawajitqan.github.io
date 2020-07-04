@@ -12,7 +12,6 @@
 body header .intro-text .intro-heading h1, h2, h3, h4, h5, h6 .navbar-default .nav li a{
 font-family: 'Cairo', "Helvetica Neue",Helvetica,Arial,sans-serif;
 direcion: rtl;
-margin-right: 20px;
 }
 
 </style>
@@ -114,7 +113,7 @@ margin-right: 20px;
         <!-- /.container-fluid -->
     </nav>
     <br><br>
-<script src="js/jssor.slider-28.0.0.min.js" type="text/javascript"></script>
+<script src="/js/jssor.slider-28.0.0.min.js" type="text/javascript"></script>
     <script type="text/javascript">
         window.jssor_1_slider_init = function() {
 
@@ -206,17 +205,17 @@ margin-right: 20px;
     <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:980px;height:380px;overflow:hidden;visibility:hidden;">
         <!-- Loading Screen -->
         <div data-u="loading" class="jssorl-009-spin" style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
-            <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="img/spin.svg" />
+            <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="/img/spin.svg" />
         </div>
         <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:980px;height:380px;overflow:hidden;">
             <div>
-                <img data-u="image" src="img/Private-villa-2-min.jpg" />
+                <img data-u="image" src="/img/Private-villa-2-min.jpg" />
             </div>
             <div>
-                <img data-u="image" src="img/Private-villa-3-min.jpg" />
+                <img data-u="image" src="/img/Private-villa-3-min.jpg" />
             </div>
             <div>
-                <img data-u="image" src="img/Private-villa-4-min.jpg" />
+                <img data-u="image" src="/img/Private-villa-4-min.jpg" />
             </div>
             
         </div><a data-scale="0" href="https://www.jssor.com" style="display:none;position:absolute;">responsive slider</a>
@@ -272,9 +271,11 @@ margin-right: 20px;
         
           <a class="page-link" href="/">مؤسسة رواج الإتقان للمقاولات</a>
         
-          <a class="page-link" href="/en/projects/">Profile | Rawaj Alitqan Consturction Company in KSA</a>
+          <a class="page-link" href="/en/projects/">Profile | Rawaj Alitqan Construction company in KSA</a>
         
           <a class="page-link" href="/projects/">معرض الأعمال | مؤسسة رواج الإتقان للمقاولات</a>
+        
+          
         
           
         
@@ -521,7 +522,7 @@ margin-right: 20px;
             
             
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal0" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
@@ -1108,9 +1109,9 @@ margin-right: 20px;
  
 <script src="js/jssor.slider-28.0.0.min.js" type="text/javascript"></script>
     <script type="text/javascript">
-        window.jssor_1_slider_init = function() {
+        window.jssor_0_slider_init = function() {
 
-            var jssor_1_SlideshowTransitions = [
+            var jssor_0_SlideshowTransitions = [
               {$Duration:800,x:0.3,$During:{$Left:[0.3,0.7]},$Easing:{$Left:$Jease$.$InCubic,$Opacity:$Jease$.$Linear},$Opacity:2},
               {$Duration:800,x:-0.3,$SlideOut:true,$Easing:{$Left:$Jease$.$InCubic,$Opacity:$Jease$.$Linear},$Opacity:2},
               {$Duration:800,x:-0.3,$During:{$Left:[0.3,0.7]},$Easing:{$Left:$Jease$.$InCubic,$Opacity:$Jease$.$Linear},$Opacity:2},
@@ -1135,11 +1136,11 @@ margin-right: 20px;
               {$Duration:800,$Delay:20,$Clip:12,$SlideOut:true,$Assembly:260,$Easing:{$Clip:$Jease$.$OutCubic,$Opacity:$Jease$.$Linear},$Opacity:2}
             ];
 
-            var jssor_1_options = {
+            var jssor_0_options = {
               $AutoPlay: 1,
               $SlideshowOptions: {
                 $Class: $JssorSlideshowRunner$,
-                $Transitions: jssor_1_SlideshowTransitions,
+                $Transitions: jssor_0_SlideshowTransitions,
                 $TransitionsOrder: 1
               },
               $ArrowNavigatorOptions: {
@@ -1152,21 +1153,21 @@ margin-right: 20px;
               }
             };
 
-            var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+            var jssor_0_slider = new $JssorSlider$("jssor_0", jssor_0_options);
 
             /*#region responsive code begin*/
 
             var MAX_WIDTH = 980;
 
             function ScaleSlider() {
-                var containerElement = jssor_1_slider.$Elmt.parentNode;
+                var containerElement = jssor_0_slider.$Elmt.parentNode;
                 var containerWidth = containerElement.clientWidth;
 
                 if (containerWidth) {
 
                     var expectedWidth = Math.min(MAX_WIDTH || containerWidth, containerWidth);
 
-                    jssor_1_slider.$ScaleWidth(expectedWidth);
+                    jssor_0_slider.$ScaleWidth(expectedWidth);
                 }
                 else {
                     window.setTimeout(ScaleSlider, 30);
@@ -1181,7 +1182,7 @@ margin-right: 20px;
             /*#endregion responsive code end*/
         };
     </script>
-    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="portfolioModal0" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -1196,7 +1197,7 @@ margin-right: 20px;
                             <h2>مقر مؤسسة</h2>
                             <hr class="star-primary">
 
-<div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:980px;height:480px;overflow:hidden;visibility:hidden;">
+<div id="jssor_0" style="position:relative;margin:0 auto;top:0px;left:0px;width:980px;height:480px;overflow:hidden;visibility:hidden;">
         <!-- Loading Screen -->
         <div data-u="loading" class="jssorl-009-spin" style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
             <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="img/spin.svg" />
@@ -1281,7 +1282,7 @@ margin-right: 20px;
             </div>
         </div>
     </div>
-<script type="text/javascript">jssor_1_slider_init();
+<script type="text/javascript">jssor_0_slider_init();
     </script>
 
 
