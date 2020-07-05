@@ -189,11 +189,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-collapse {
     border-color: rgba(255,255,255,.02);
+    float: right !important;
 }
 
 .navbar-default .navbar-toggle {
     border-color: #10647d;
     background-color: #10647d;
+    float: left;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -203,6 +205,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
     background-color: #10647d;
+    float:left;
 }
 
 .navbar-default .nav li a {
@@ -214,18 +217,21 @@ fieldset[disabled] .btn-xl.active {
     -webkit-transition: all ease .35s;
     -moz-transition: all ease .35s;
     transition: all ease .35s;
+    float: right !important;
 }
 
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
     color: #10647d;
+    float: right !important;
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
     background-color: #10647d;
+    float:right;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
@@ -246,6 +252,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default .navbar-brand {
         font-size: 2em;
+         float: right;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -262,6 +269,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
+            float: right;
     }
 }
 
