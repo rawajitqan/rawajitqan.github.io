@@ -1,5 +1,12 @@
 <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top">
+<style>
+.navbar-default .navbar-collapse {
+
+    float: left !important;
+
+}
+</style>
+    <nav class="navbar navbar-default navbar-fixed-top" >
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
@@ -13,12 +20,12 @@
     height: 58px !important;
 margin-top: -18px;
 " src="{{ '/img/logo2.svg' | prepend: site.baseurl }}">{{site.title}}</a>
-<a href="{{ site.baseurl }}/"><button style="height:50px;margin-left: 15px;margin-top:10px; float: rıght;">عربي</button></a>
+<a href="{{ site.baseurl }}/"><button style="height:50px;margin-top:10px;">عربي</button></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
+                <ul class="nav navbar-nav navbar-left">
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>

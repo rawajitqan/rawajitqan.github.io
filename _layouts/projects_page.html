@@ -5,7 +5,11 @@
 
 
     <body id="page-top" class="index">
-    {% include headerpage.html %}
+    {% if page.lang == 'en' %}
+        {% include headerpage-en.html %}
+    {% else %}
+         {% include headerpage.html %}
+    {% endif %}
     {% include footer.html %}
  
     {% include js.html %}
