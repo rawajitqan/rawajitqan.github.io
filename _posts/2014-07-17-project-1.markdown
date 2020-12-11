@@ -3,7 +3,7 @@ title: مقر مؤسسة
 subtitle: ديكورات داخلية
 sitemap: false
 layout: default
-modal-id: 1
+modal-id: 0
 img: hazemy.jpg
 img-1: hazemy1.jpg
 img-2: hazemy2.jpg

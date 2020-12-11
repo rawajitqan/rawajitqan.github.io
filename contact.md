@@ -1,11 +1,9 @@
 ---
-layout: page
+layout: projects_page
 title: "Contact us"
 ---
 
-<center>
+{% include contact-form.html %}
 
-<script type="text/javascript" src="https://form.jotform.com/jsform/92944201991966"></script>
 
-</center>
 

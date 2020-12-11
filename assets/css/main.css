@@ -965,8 +965,21 @@ table tfoot td {
 figcaption {
   padding-top: 10px;
   color:  #8c8b8b;
-  display: block;
-
+  display: block
+}
+.button2 {
+  display: inline-block;
+margin: 0 1px;
+padding: 1px 8px;
+font-weight: bold;
+color: #555;
+vertical-align: middle;
+background-color: #f9f9f9;
+border: solid 1px #ccc;
+    border-bottom-color: rgb(204, 204, 204);
+border-bottom-color: #bbb;
+border-radius: 3px;
+box-shadow: inset 0 -1px 0 #bbb;
 }
 .about img {
     min-width:120px;

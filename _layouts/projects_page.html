@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+  {% include projects-head.html %}
+
+
+    <body id="page-top" class="index">
+    {% if page.lang == 'en' %}
+        {% include headerpage-en.html %}
+    {% else %}
+         {% include headerpage.html %}
+    {% endif %}
+    {% include footer.html %}
+ 
+    {% include js.html %}
+
+    </body>
+</html>
