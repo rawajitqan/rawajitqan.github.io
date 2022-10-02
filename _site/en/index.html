@@ -49,8 +49,18 @@
 .navbar-default .navbar-collapse {
 
     float: left !important;
-
 }
+@media(max-width:768px) { 
+.lang{ 
+margin-top: -50px;
+  float: right;
+}
+.navbar-brand{
+font-size: 16px;
+margin-left: -20px;
+}
+}
+
 </style>
     <nav class="navbar navbar-default navbar-fixed-top" >
         <div class="container">
@@ -62,10 +72,9 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-               <a class="navbar-brand page-scroll" style="color: Dodgerblue; float: left" href="https://rawajitqan.com/en"><img style="  width: 66px !important;
-    height: 58px !important;
+               <a class="navbar-brand page-scroll" style="color: Dodgerblue; float: left" href="https://rawajitqan.com/en"><img style="height: 58px !important;
 margin-top: -18px;
-" src="/img/g57.png">RAWAJ ALITQAN</a>
+" src="/img/g57.png">&nbsp&nbspRAWAJ ALITQAN</a>
 
             </div>
 
@@ -99,9 +108,10 @@ margin-top: -18px;
                         <a class="page-scroll" href="/blog">Blog</a>
                     </li>
                 </ul>
+
             </div>
             <!-- /.navbar-collapse -->
-        <a href="/"><button class="lang-btn" >العربية</button></a>
+        <a class="lang" href="/"><button class="lang-btn" >العربية</button></a>
         </div>
         <!-- /.container-fluid -->
 
