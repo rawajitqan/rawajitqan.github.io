@@ -363,6 +363,9 @@ section h3.section-subheading {
     section {
         padding: 150px 0;
     }
+    .flex-inline {
+    display: inline-flex;
+}
 }
 
 .service-heading {
