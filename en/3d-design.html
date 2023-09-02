@@ -1,39 +1,34 @@
 ---
 layout: projects_page
-title: "تصميم ثلاثي الأبعاد] | مؤسسة رواج الإتقان للمقاولات"
+title: "3D Design | Rawaj Alitqan consturction company in KSA"
 ---
 
 <p style="  color: gray;
   font-size: 2rem;
-  direction: rtl;"> We provide our customers with interior and exterior 3D decoration design services, and we have extensive experience and previous work in this field in various models and types. Below are just a few examples from some of our work.</p>
+  "> We provide our customers with interior and exterior 3D decoration design services, and we have extensive experience and previous work in this field in various models and types. Below are just a few examples from some of our work.</p>
 
 
     <div class="gallery" id="gallery">
         <div class="gallery-item">
-            <div class="content"><img src="{{"/assets/img/3d-designs/rawajitqan-3d-design-interior-palace.jpg" | prepend: site.baseurl}}" alt="" loading="lazy"></div>
+            <div class="content"><img src="{{"/assets/img/3d-designs/rawajitqan-3d-design-interior-palace.jpg" | prepend: site.baseurl}}" alt=""></div>
+        </div>
+<div class="gallery-item">
+            <div class="content"><img src="{{"/assets/img/3d-designs/rawajitqan-3d-design-interior-bath-room.jpg" | prepend: site.baseurl}}" alt="" ></div>
+        </div>
+<div class="gallery-item">
+            <div class="content"><img src="{{"/assets/img/3d-designs/rawajitqan-3d-design-interior-house-room.jpg" | prepend: site.baseurl}}" alt="" ></div>
+        </div>
+<div class="gallery-item">
+            <div class="content"><img src="{{"/assets/img/3d-designs/rawajitqan-3d-design-interior-house-living-room..jpg" | prepend: site.baseurl}}" alt="" ></div>
         </div>
 
 <div class="gallery-item">
-            <div class="content"><img src="{{"/assets/img/3d-designs/rawajitqan-3d-design-interior-bath-room.jpg" | prepend: site.baseurl}}" alt="" loading="lazy"></div>
-        </div>
-
-<div class="gallery-item">
-            <div class="content"><img src="{{"/assets/img/3d-designs/rawajitqan-3d-design-interior-house-room.jpg" | prepend: site.baseurl}}" alt="" loading="lazy"></div>
-        </div>
-<div class="gallery-item">
-            <div class="content"><img src="{{"/assets/img/3d-designs/rawajitqan-3d-design-interior-house-living-room..jpg" | prepend: site.baseurl}}" alt="" loading="lazy"></div>
-        </div>
-
-<div class="gallery-item">
-<div class="content"><img src="{{"/assets/img/3d-designs/rawajitqan-3d-design-interior-bath-room-2.jpg" | prepend: site.baseurl}}" alt="" loading="lazy"></div>
+<div class="content"><img src="{{"/assets/img/3d-designs/rawajitqan-3d-design-interior-bath-room-2.jpg" | prepend: site.baseurl}}" alt="" ></div>
         </div>
 
         
 <div class="gallery-item">
 <div class="content"><img src="{{"/assets/img/3d-designs/rawajitqan-3d-design-interior-bedroom.jpg" | prepend: site.baseurl}}" alt="" loading="lazy"></div>
-        </div>
-<div class="gallery-item">
-<div class="content"><img src="{{"/assets/img/3d-designs/rawajitqan-3d-design-interior-living-room-1.jpg" | prepend: site.baseurl}}" alt="" loading="lazy"></div>
         </div>
 
 
@@ -209,7 +204,7 @@ body {
   margin: auto;
 }
 .byebye {
-  opacity: 0;
+  opacity: 1;
 }
 .byebye:hover {
   transform: scale(0.2) !important;
@@ -345,7 +340,6 @@ var resizeAll = function () {
 gallery.querySelectorAll('img').forEach(function (item) {
     item.classList.add('byebye');
     if (item.complete) {
-        console.log(item.src);
     }
     else {
         item.addEventListener('load', function () {
