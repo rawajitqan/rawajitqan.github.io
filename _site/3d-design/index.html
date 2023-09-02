@@ -126,11 +126,9 @@ direcion: rtl;
         <div class="gallery-item">
             <div class="content"><img src="/assets/img/3d-designs/rawajitqan-3d-design-interior-palace.jpg" alt="" loading="lazy"></div>
         </div>
-
 <div class="gallery-item">
             <div class="content"><img src="/assets/img/3d-designs/rawajitqan-3d-design-interior-bath-room.jpg" alt="" loading="lazy"></div>
         </div>
-
 <div class="gallery-item">
             <div class="content"><img src="/assets/img/3d-designs/rawajitqan-3d-design-interior-house-room.jpg" alt="" loading="lazy"></div>
         </div>
@@ -145,9 +143,6 @@ direcion: rtl;
         
 <div class="gallery-item">
 <div class="content"><img src="/assets/img/3d-designs/rawajitqan-3d-design-interior-bedroom.jpg" alt="" loading="lazy"></div>
-        </div>
-<div class="gallery-item">
-<div class="content"><img src="/assets/img/3d-designs/rawajitqan-3d-design-interior-living-room-1.jpg" alt="" loading="lazy"></div>
         </div>
 
 
@@ -323,7 +318,7 @@ body {
   margin: auto;
 }
 .byebye {
-  opacity: 0;
+  opacity: 1;
 }
 .byebye:hover {
   transform: scale(0.2) !important;
@@ -459,7 +454,6 @@ var resizeAll = function () {
 gallery.querySelectorAll('img').forEach(function (item) {
     item.classList.add('byebye');
     if (item.complete) {
-        console.log(item.src);
     }
     else {
         item.addEventListener('load', function () {
