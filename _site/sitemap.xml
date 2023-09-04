@@ -59,6 +59,12 @@
 <loc>http://localhost:4000/contact/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/en/electrical-works/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/electrical-works/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/en/</loc>
 </url>
 <url>
