@@ -12,13 +12,18 @@ description: "Rawaj Al-Itqan Construction company in KSA with landscape, interio
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: linkedin
+    url: https://www.linkedin.com/company/rawajitqan/
   - title: twitter
     url: https://twitter.com/rawajalitqan
   - title: facebook
     url: https://www.facebook.com/RAWAJ-Aitqan-Est-264712217481264
   - title: instagram
-    url: https://www.instagram.com/rawajalitqan/
-
+    url: https://www.instagram.com/rawajalitqanest/
+  - title: behance
+    url: https://www.behance.net/rawajitqan/
+  - title: tiktok
+    url: https://www.tiktok.com/@rawaj.alitqan
 # Postal address (add as many lines as necessary)
 address:
   - line: 14231 Khurais Rd
