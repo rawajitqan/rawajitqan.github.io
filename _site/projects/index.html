@@ -2292,7 +2292,71 @@ color: #849aec;
 
 
     
-      <footer>
+    <script>
+   document.addEventListener("DOMContentLoaded", function() {
+    let lazyloadImages = document.querySelectorAll(".lazyload");
+
+    const lazyload = function() {
+        let scrollTop = window.pageYOffset;
+        
+        lazyloadImages.forEach(function(img) {
+            if (img.offsetTop < (window.innerHeight + scrollTop)) {
+                img.src = img.dataset.src;
+                img.parentElement.classList.add("show");
+                img.classList.remove("lazyload");
+            }
+        });
+
+        cleanLazyImages();
+    };
+
+    const cleanLazyImages = function() {
+        lazyloadImages = Array.prototype.filter.call(lazyloadImages, function(img) {
+            return img.classList.contains("lazyload");
+        });
+    };
+
+    const isImageInViewport = function(img) {
+        const rect = img.getBoundingClientRect();
+        return (
+            rect.top <= (window.innerHeight || document.documentElement.clientHeight) &&
+            rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+        );
+    };
+
+    const lazyloadWithIntersectionObserver = function() {
+        if ("IntersectionObserver" in window) {
+            const imageObserver = new IntersectionObserver(function(entries, observer) {
+                entries.forEach(function(entry) {
+                    if (entry.isIntersecting) {
+                        const img = entry.target;
+                        img.src = img.dataset.src;
+                        img.parentElement.classList.add("show");
+                        img.classList.remove("lazyload");
+                        imageObserver.unobserve(img);
+                    }
+                });
+            });
+
+            lazyloadImages.forEach(function(img) {
+                imageObserver.observe(img);
+            });
+        } else {
+            // Fallback for browsers that do not support IntersectionObserver
+            window.addEventListener("scroll", lazyload);
+            window.addEventListener("resize", lazyload);
+            window.addEventListener("orientationChange", lazyload);
+
+            lazyload(); // Initial check
+        }
+    };
+
+    lazyloadWithIntersectionObserver();
+});
+
+</script>  
+
+<footer>
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
