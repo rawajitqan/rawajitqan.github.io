@@ -4,10 +4,10 @@ sitemap: false
 subtitle: أعمال تشطيب
 layout: default
 modal-id: 13
-img: mtawe-1.jpg
-img-1: mtawe-2.jpg
-img-2: mtawe-3.jpg
-thumbnail: mtawe-thumb.jpg
+img: mtawe-1.webp
+img-1: mtawe-2.webp
+img-2: mtawe-3.webp
+thumbnail: mtawe-thumb.webp
 alt: أعمال تشطيب لفيلا سكنية خاصة في حي الرائد، الرياض - مؤسسة رواج الإتقان للمقاولات في المملكة العربية السعودية
 client: حي الرائد، الرياض
 category: أعمال تشطيب

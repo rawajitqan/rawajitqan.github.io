@@ -4,11 +4,11 @@ sitemap: false
 subtitle: أعمال إنشائية
 layout: default
 modal-id: 12
-img: Hamad-palace-1.jpg
-img-1: Hamad-palace-2.jpg
-img-2: Hamad-palace-3.jpg
-img-3: Hamad-palace-4.jpg
-thumbnail: Hamad-palace-thumb.jpg
+img: Hamad-palace-1.webp
+img-1: Hamad-palace-2.webp
+img-2: Hamad-palace-3.webp
+img-3: Hamad-palace-4.webp
+thumbnail: Hamad-palace-thumb.webp
 alt: أعمال إنشائية (ملحق قصر) في منطقة حطين، الرياض. مؤسسة رواج الإتقان للمقاولات في المملكة العربية السعودية
 client: حي حطين، الرياض
 category: أعمال إنشائية

@@ -4,10 +4,10 @@ sitemap: false
 subtitle: واجهات خارجية
 layout: default
 modal-id: 7
-img: sadeer-factory-1.JPG
-img-1: sadeer-factory-2.JPG
-img-2: sadeer-factory-3.JPG
-thumbnail: sadeer-factory-thumb.JPG
+img: sadeer-factory-1.webp
+img-1: sadeer-factory-2.webp
+img-2: sadeer-factory-3.webp
+thumbnail: sadeer-factory-thumb.webp
 alt: أعمال واجهات خارجية لمصنع ومستودع في روضة سدير. مؤسسة رواج الإتقان للمقاولات في المملكة العربية السعودية
 client: روضة سدير
 category: واجهات خارجية

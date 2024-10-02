@@ -3,12 +3,12 @@ title: فيلا سكنية خاصة
 subtitle: تشطيبات عامة، ديكورات داخلية وخارجية، أعمال الكتروميكانيك
 layout: default
 modal-id: 5
-img: private-villa.jpeg
-img-1: private-villa-1.jpeg
-img-2: private-villa-2.jpeg
-img-3: private-villa-3.jpeg
-img-4: private-villa-4.jpeg
-thumbnail: private-villa-thumb.jpeg
+img: private-villa.webp
+img-1: private-villa-1.webp
+img-2: private-villa-2.webp
+img-3: private-villa-3.webp
+img-4: private-villa-4.webp
+thumbnail: private-villa-thumb.webp
 client: حي الواحة، الرياض
 alt: تشطيبات عامة، ديكورات داخلية وخارجية، أعمال الكتروميكانيك لفيلا سكنية خاصة في حي الواحة، الرياض. مؤسسة رواج الإتقان للمقاولات في المملكة العربية السعودية
 sitemap: false

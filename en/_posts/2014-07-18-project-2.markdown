@@ -5,12 +5,12 @@ sitemap: false
 subtitle: Finishing Works
 layout: default
 modal-id: 2
-img: malaz1.jpeg
-img-1: malaz2.jpeg
-img-2: malaz3.jpeg
-img-3: malaz4.jpeg
-img-4: malaz5.jpeg
-thumbnail: malaz1-thumb.jpeg
+img: malaz1.webp
+img-1: malaz2.webp
+img-2: malaz3.webp
+img-3: malaz4.webp
+img-4: malaz5.webp
+thumbnail: malaz1-thumb.webp
 alt: Private Villa - Rawaj Alitaqan Consturcion Company in KSA
 client: Malaz Area - Riyadh
 category: Finishing Works

@@ -5,11 +5,11 @@ sitemap: false
 subtitle: Finishing Works
 layout: default
 modal-id: 14
-img: kap-1.JPG
-img-1: kap-2.JPG
-img-2: kap-3.JPG
-img-3: kap-4.JPG
-thumbnail: kap-thumb.JPG
+img: kap-1.webp
+img-1: kap-2.webp
+img-2: kap-3.webp
+img-3: kap-4.webp
+thumbnail: kap-thumb.webp
 alt: Finishing Works for a Government buildings in Riyadh - Rawaj Alitaqan Consturcion Company in KSA
 client: Riyadh
 category: Finishing Works

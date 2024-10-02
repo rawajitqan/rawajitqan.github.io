@@ -5,12 +5,12 @@ sitemap: false
 subtitle: Decorations
 layout: default
 modal-id: 4
-img: Janquil.jpg
-img-1: Janquil-1.jpg
-img-2: Janquil-2.jpg
-img-3: Janquil-3.jpg
-img-4: Janquil-4.jpg
-img-5: Janquil-5.jpg
+img: Janquil.webp
+img-1: Janquil-1.webp
+img-2: Janquil-2.webp
+img-3: Janquil-3.webp
+img-4: Janquil-4.webp
+img-5: Janquil-5.webp
 thumbnail: Janquil-thumb.jpeg
 alt: Decorations for Jonquil Clothes Shop.Rawaj Alitaqan Consturcion Company in KSA
 client: Alzahran Mall

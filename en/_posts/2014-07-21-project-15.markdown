@@ -5,13 +5,13 @@ sitemap: false
 subtitle: Finishing Works
 layout: default
 modal-id: 15
-img: private-palace-1.JPG
-img-1: private-palace-2.JPG
-img-2: private-palace-3.JPG
-img-3: private-palace-4.JPG
-img-4: private-palace-5.JPG
-img-5: private-palace-6.JPG
-thumbnail: private-palace-thumb.JPG
+img: private-palace-1.webp
+img-1: private-palace-2.webp
+img-2: private-palace-3.webp
+img-3: private-palace-4.webp
+img-4: private-palace-5.webp
+img-5: private-palace-6.webp
+thumbnail: private-palace-thumb.webp
 alt: Finishing Works for a Private Palace in Huttin Area, Riyadh - Rawaj Alitaqan Consturcion Company in KSA
 client: Huttin Area, Riyadh
 category: Finishing Works
