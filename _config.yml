@@ -50,3 +50,6 @@ permalink: /:title/
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
+gems:
+  - jekyll-minifier
+
