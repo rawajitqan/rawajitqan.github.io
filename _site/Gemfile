@@ -8,3 +8,4 @@ gem 'jekyll-feed'
 gem 'jekyll-paginate'
 gem "kramdown-parser-gfm"
 gem "webrick"
+gem "jekyll-minifier"
