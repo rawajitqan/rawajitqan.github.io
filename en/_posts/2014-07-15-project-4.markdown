@@ -11,7 +11,7 @@ img-2: Janquil-2.webp
 img-3: Janquil-3.webp
 img-4: Janquil-4.webp
 img-5: Janquil-5.webp
-thumbnail: Janquil-thumb.jpeg
+thumbnail: Janquil-thumb.webp
 alt: Decorations for Jonquil Clothes Shop.Rawaj Alitaqan Consturcion Company in KSA
 client: Alzahran Mall
 category: Decorations

@@ -19,7 +19,7 @@ body {
 }
 
 .text-muted {
-    color: #3c3535;
+    color: #1c1c1c;
 }
 
 .text-primary {
@@ -44,7 +44,7 @@ a.active {
 }
 
 a {
-    color: #10647d;
+    color: #00a7d9;
 }
 
 a:hover,
@@ -942,13 +942,13 @@ footer {
     background-size: 100% 100%;
 }
 .lang-btn{
-height: 50px;
-margin: 5px;
+height: 5rem;
+margin: 1rem;
 background-color: transparent;
 color: white;
 border: 2px solid white;
 border-radius: 5px;
-font-size: 14px;
+font-size: 1.75rem;
 }
 .lang-btn:hover{
 border-color: #2196F3;
