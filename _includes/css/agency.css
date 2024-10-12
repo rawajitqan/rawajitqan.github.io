@@ -356,13 +356,12 @@ header {
 }
 
 section {
-    padding: 100px 0;
+    padding: 3rem 0;
 }
 
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
-    font-size: 40px;
 }
 
 section h3.section-subheading {
@@ -957,3 +956,12 @@ font-size: 1.75rem;
 border-color: #2196F3;
   color: dodgerblue
 }
+.main-slider {
+cursor:default;
+width:980px;
+height:380px;
+}
+.client {
+  padding: 1rem;
+}
+
