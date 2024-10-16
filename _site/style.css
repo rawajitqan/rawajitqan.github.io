@@ -370,6 +370,7 @@ section {
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
+  font-size: 3rem;
 }
 
 section h3.section-subheading {
@@ -971,6 +972,139 @@ height:380px;
 }
 .client {
   padding: 1rem;
+}
+
+.call_to-btn {
+  display: inline-block;
+  padding: 12px 20px;
+  border-radius: 10px;
+  font-size: 1.7rem;
+  border: 1px solid transparent;
+  color: #fff;
+  transition: all 0.3s ease 0s;
+  text-align: center;
+  background-color: #15A545;
+align-content: center;
+  align-items: center;
+  display: flex;
+  width: 20rem;
+  justify-content: center;
+margin: auto;
+}
+.call_to-btn svg {
+  width: 30px;
+  margin-left: 10px;
+}
+.s-c {
+   width: 20%;
+  float: right;
+}
+.blackOverlay{
+  position: absolute;
+  width: 100%;
+  opacity: 0.75;
+  background-color: rgba(0, 0, 0, 1);
+  height: 100%;
+}
+@media (max-width: 768px) {
+ .s-c {
+   width: 50%;
+ }
+ .last {
+     width: 100%;
+  }
+}
+
+.header {
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    background-image: url('../img/header.webp');
+    text-align: center;
+    color: white;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.header-content {
+        position: relative;
+        text-align: center;
+        padding: 100px 15px 100px;
+        width: 100%;
+}
+.header-content-inner {
+            h1 {
+                font-weight: 700;
+                text-transform: uppercase;
+                margin-top: 0;
+                margin-bottom: 0;
+            }
+            hr {
+                margin: 30px auto;
+border-color: rgb(16, 100, 125);
+  border-width: 3px;
+  max-width: 50px;
+            }
+            p {
+                font-weight: 300;
+                color: rgba(white, .7);
+                font-size: 16px;
+                margin-bottom: 50px;
+            }
+}
+
+@media (min-width: 768px) {
+       .header{
+ min-height: 100vh;
+            }
+
+            .header-content-inner {
+                max-width: 1000px;
+                margin-left: auto;
+                margin-right: auto;
+}
+  .header .header-content {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 0px 50px;
+  }
+ 
+}
+           
+
+.bg-us {
+  color: #dbdbdb;
+  background-color: #10647d;
+  
+}
+.text-faded {
+ direction: rtl;
+ font-size: 1.7rem;
+}
+.service-box {
+  h3 {
+ font-size: 2.2rem;
+}
+}
+.my-2 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.black {
+ color: #000;
+  background-color: #e2edf2;
+}
+.bg-dark {
+  background-color: #222;
+  color: white;
+}
+aside {
+  padding: 50px 0;
+    .call_to-btn {
+        width: 30rem;
+}
 }
 
 
