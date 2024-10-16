@@ -3,7 +3,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
+{% if page.url contains "/en" %}
+    <meta name="title" content="Rawaj AL-Itqan Construction" />
+    <meta name="description" content="Better Solutions for your Projects">
+    {% else %}
+    <meta name="title" content="{{ page.title }}" />
     <meta name="description" content="{{ site.description }}">
+    {% endif %}
+
+    <!-- Open Graph / Facebook -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ page.url }}" />
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:description" content="نساعدك في مختلف المشاريع العمرانية" />
+<meta property="og:image" content="https://rawajitqan.com/img/g57.png" />
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content="{{ page.url }}" />
+<meta property="twitter:title" content="{{ page.title }}" />
+<meta property="twitter:description" content="نساعدك في مختلف المشاريع العمرانية" />
+<meta property="twitter:image" content="https://rawajitqan.com/img/g57.png" />
 <style>
 @import url('https://fonts.googleapis.com/css?family=Cairo&display=swap');
 body header .intro-text .intro-heading h1, h2, h3, h4, h5, h6 .navbar-default .nav li a{
