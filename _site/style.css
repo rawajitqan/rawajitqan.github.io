@@ -1002,7 +1002,7 @@ margin: auto;
 .blackOverlay{
   position: absolute;
   width: 100%;
-  opacity: 0.75;
+  opacity: 0.6;
   background-color: rgba(0, 0, 0, 1);
   height: 100%;
 }
