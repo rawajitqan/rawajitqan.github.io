@@ -258,6 +258,13 @@ fieldset[disabled] .btn-xl.active {
 }
 
 @media(min-width:768px) {
+ .mr-20 {
+    margin-right: 5rem;
+
+} 
+    .ml-20 {
+        margin-left: 6rem;
+    }
     .navbar-default {
 
         border: 0;
@@ -1105,6 +1112,186 @@ aside {
     .call_to-btn {
         width: 30rem;
 }
+}
+.rtl {
+  direction: rtl;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.pt-8 {
+  padding-top: 2rem;
+}
+
+.mb-5 {
+  margin-bottom: 1.25rem;
+}
+
+.h-12 {
+  height: 3rem;
+}
+
+.w-12 {
+  width: 3rem;
+}
+
+.object-cover {
+  object-fit: cover;
+}
+
+.rounded-full {
+  border-radius: 9999px;
+}
+
+.ml-3 {
+  margin-left: 0.75rem;
+}
+
+.text-yellow-400 {
+  color: #fbbf24;
+}
+
+.mr-2 {
+  margin-right: 0.5rem;
+}
+
+.bg-blue-600 {
+  background-color: #3182ce;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.px-3 {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+.py-1\.5 {
+  padding-top: 0.375rem;
+  padding-bottom: 0.375rem;
+}
+
+.rounded {
+  border-radius: 0.25rem;
+    border-width: 0;
+}
+
+.hover\:transform:hover {
+  transform: scale(1.05);
+}
+
+.transition {
+  transition-property: all;
+}
+
+.duration-300 {
+  transition-duration: 300ms;
+}
+
+.ease-in-out {
+  transition-timing-function: ease-in-out;
+}
+
+.m-4 {
+  margin: 1rem;
+}
+
+.max-w-xl {
+  max-width: 36rem;
+}
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+.shadow-md {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.p-5 {
+  padding: 1.25rem;
+}
+
+.w-12 {
+  width: 3rem;
+}
+
+.h-12 {
+  height: 3rem;
+}
+
+.rounded-full {
+  border-radius: 9999px;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.text-gray-800 {
+  color: #2d3748;
+}
+
+.tracking-wide {
+  letter-spacing: 0.05em;
+}
+
+.text-gray-700 {
+  color: #4a5568;
+}
+
+/* Media Queries */
+@media only screen and (max-width: 1024px) {
+  .sm\:mr-2 {
+    margin-right: 0.5rem;
+  }
+  
+  .sm\:ml-4 {
+    margin-left: 1rem;
+  }
+}
+
+@media (min-width: 810px) and (max-width: 1214px) {
+  .md\:mr-7 {
+    margin-right: 7rem;
+  }
+  
+  .md\:ml-8 {
+    margin-left: 2rem;
+  }
+
+}
+
+.items-start {
+    align-items: flex-start;
+
+}
+.flex-wrap {
+    flex-wrap: wrap;
 }
 
 
