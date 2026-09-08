@@ -34,15 +34,17 @@ direcion: rtl;
 </style>
     <link rel="canonical" href="http://localhost:4000/project-14/">
 <link rel="shortcut icon" href="http://localhost:4000/img/favicon.png" />
+
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-EXN3H1HE44"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10802667680"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-EXN3H1HE44');
+  gtag('config', 'AW-10802667680');
 </script>
+
   <link href="/css/fontawesome/css/fontawesome.css" rel="stylesheet" />
   <link href="/css/fontawesome/css/brands.css" rel="stylesheet" />
   <link href="/css/fontawesome/css/solid.css" rel="stylesheet" />
@@ -71,18 +73,122 @@ direcion: rtl;
 
     <!-- Navigation -->
 <style>
-@media (max-width:768px){
+.logo{
+height: 58px;
+}
+@media (min-width: 769px) {
 
-.collapse navbar-collapse{
-width: 200px;
+    .navbar-header {
+        float: right !important;
+        display: flex !important;
+        align-items: center;
+    }
+
+    .navbar-brand {
+        float: none !important;
+        order: 2;
+
+    }
+
+    .navbar-header > a:first-of-type {
+        order: 1;
+        margin: 5px 10px 5px 0;
+    }
+
+    .navbar-default .navbar-collapse {
+        float: right !important;
+    }
 }
+@media (max-width: 768px) {
+    .container {
+    padding-right: 0px;
 }
+    .navbar-header {
+        display: flex !important;
+        align-items: center;
+        width: 100%;
+        flex-wrap: nowrap;
+        justify-content: flex-end;
+    }
+
+    /* Hamburger */
+    .navbar-default .navbar-toggle {
+        order: 2;
+        float: none !important;
+        margin: 5px 10px 5px 5px !important;
+        flex: 0 0 auto;
+    }
+ .navbar-default .navbar-collapse {
+        float: none !important;
+        text-align: center;
+        border-top: 1px solid rgba(255,255,255,0.1);
+        margin-top: 10px;
+        clear: both;
+direction: rtl !important;
+    }
+    
+    /* Fix nav items - center them */
+    .navbar-default .navbar-nav {
+        float: none !important;
+        text-align: center;
+        width: 100%;
+        margin: 0;
+direction: rtl !important;
+    }
+    
+    .navbar-default .navbar-nav > li {
+        float: none !important;
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    
+    .navbar-default .nav li a {
+        float: none !important;
+        display: inline-block !important;
+        padding: 10px 15px;
+        text-align: center;
+    }
+
+    /* Logo + title */
+    .navbar-brand {
+        order: 1;
+        float: none !important;
+        margin: 0 !important;
+        padding: 5px 0 !important;
+
+        font-size: 14px !important;
+        line-height: 40px !important;
+
+        display: flex !important;
+        align-items: center;
+
+        flex: 0 1 auto;
+        max-width: none;
+        white-space: nowrap;
+    }
+
+    .navbar-brand img {
+        height: 40px !important;
+        width: auto;
+    }
+
+    /* Language button */
+
+
+    .lang-btn {
+        height: 34px;
+        padding: 0 14px;
+        font-size: 12px;
+    }
+}
+
 </style>
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             
- <div class="navbar-header page-scroll" style="float:right">
+ <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
@@ -91,11 +197,11 @@ width: 200px;
                 </button>
 
 
-                <a class="navbar-brand page-scroll" style="color: Dodgerblue;font-family:'cairo',arial;margin-right: -15px;margin-top: -18px;line-height: 50px;" href="https://rawajitqan.com">رواج الإتقان&nbsp&nbsp<img style="
-    height: 58px !important;
+              <a class="navbar-brand page-scroll" style="
+color: Dodgerblue;font-family:'cairo',arial;margin-top: -28px;line-height: 50px;" href="https://rawajitqan.com">رواج الإتقان&nbsp&nbsp<img  class="logo"
 " src="/img/g57.png" alt="شعار شركة رواج الإتقان للمقاولات"></a>
 
-
+    <a href="/en"><button class="lang-btn" >English</button></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="direction: rtl;">
@@ -135,7 +241,7 @@ width: 200px;
 
             </div>
             <!-- /.navbar-collapse -->
-           <a href="/en"><button class="lang-btn" >English</button></a>
+         
         </div>
         <!-- /.container-fluid -->
     </nav>
@@ -716,7 +822,11 @@ margin-left: auto;">
             <div class="row">
 <div class="col-md-6"><iframe title="فيديو تعريفي عن الشركة" class="lazyload" width="100%" height="330" data-src="https://www.youtube.com/embed/mjnWnxhVSA8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
                 <div class="col-md-6" style="text-align: right;">
-                                    <p class="text-muted">تأسـسـت مؤســسـة رواج الإتـقان فــي عـام 2012، نمت المؤسسة بشكل مطرد و نجـاح متواتر و ذلك لإتمامها مختلف المشـاريـع الخاصـة بحيث كونت قاعدة مالية مستقرة و موظفين ذوي خبرة و درايـة جديـة مـع الـمـتطلبـات الصارمة للمشاريع المختلفة , حيث اكتسـب الـفـريــق خـبـرة مـن سـنـوات عـديـدة مــن المشاركة في مشاريع واسعة النطاق
+                                    <p class="text-muted">تأسـسـت مؤســسـة رواج الإتـقان فــي عـام 2012، نمت المؤسسة بشكل مطرد و نجـاح متواتر و ذلك لإتمامها مختلف المشـاريـع الخاصـة بحيث كونت قاعدة مالية مستقرة و موظفين ذوي خبرة و درايـة جديـة مـع الـمـتطلبـات الصارمة للمشاريع المختلفة , حيث اكتسـب الـفـريــق خـبـرة مـن سـنـوات عـديـدة مــن المشاركة في مشاريع واسعة النطاق. وقد تم إنشاء 
+<a href="https://rawajitqan.com/IT">
+الشركة التقنية
+</a>
+ الرديفة لنا لتقديم خدمات تقنية المعلومات لعملائنا.
 </p>
 <h2>رسالتنا</h2>
 <p class="text-muted">
@@ -898,7 +1008,7 @@ height:100px;
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">رواج الإتقان 2024 &copy; جميع الحقوق محفوظة</span>
+                    <span class="copyright">رواج الإتقان 2026 &copy; جميع الحقوق محفوظة</span>
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
@@ -925,7 +1035,7 @@ height:100px;
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
-                      <li>  <i class="fas fa-envelope-open-text">&nbsp pmo@rawajitqan.com </i></li>
+                      <li> <a href="mailto:pmo@rawajitqan.com"> <i style="text-transform: full-width;" class="fas fa-envelope-open-text">&nbsp pmo@rawajitqan.com </i></a></li>
                     </ul>
                 </div>
             </div>
@@ -2237,8 +2347,12 @@ height:100px;
 
 </style>
 
-<a href="https://wa.me/966539122203" class="float" target="_blank" aria-label="whatsapp button">
-<i class="fab fa-whatsapp my-float"></i>
+<a href="https://wa.me/966539122203"
+   class="float"
+   aria-label="whatsapp button"
+   onclick="gtag('event', 'conversion', {
+     'send_to': 'AW-10802667680/6lHiCLOow8gcEKDBjp8o'
+   }); setTimeout(function(){ window.open('https://wa.me/966539122203', '_blank'); }, 200); return false;"><i class="fab fa-whatsapp my-float"></i>
 </a>
 
 
